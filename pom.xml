@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	
 	<version>0.0.2-SNAPSHOT</version>
-	<version-r>0.0.2</version-r>
+	<version>0.0.2</version>
 	
 	<name>tesla-fe-web-application</name>
 
