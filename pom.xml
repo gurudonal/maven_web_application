@@ -6,7 +6,10 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.2-SNAPSHOT</version>
+	<version>
+		<0.0.2-SNAPSHOT/>
+		<0.0.2/>
+	</version>
 	
 	<name>tesla-fe-web-application</name>
 
